@@ -1,2 +1,2 @@
 # pokeApp
-Personal pokemon app just for fun. 
+Personal flutter pokemon app just for fun. 
